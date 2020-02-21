@@ -1,5 +1,9 @@
 # DataScience jupyter notebook in Docker
 
+If you want to dive in deeper this are great places to start:
+* [https://www.kaggle.com/notebooks](https://www.kaggle.com/notebooks)
+* [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
+
 ## Instructions
 
 * make sure you update the path of the volume where your data will be saved in the `docker-compose.yml` file
